@@ -127,7 +127,7 @@
 //      });
 //      Dio dio = new Dio(); //
 //      // dio.options.connectTimeout = 5000;
-//      var baseUrl = "http://193.112.74.8:4555/upload";
+//      var baseUrl = "http://ip/upload";
 //      dio.options.contentType = Headers.formUrlEncodedContentType;
 //      //SharedPreferences preferences = await SharedPreferences.getInstance();
 //      var response;
