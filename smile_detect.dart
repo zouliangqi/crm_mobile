@@ -151,7 +151,7 @@
 //        "file": await MultipartFile.fromFile(path, filename: name)
 //      });
 //      Dio dio = new Dio(); //
-//      var baseUrl = "http://193.112.74.8:4555/upload";
+//      var baseUrl = "http://ip/upload";
 //      dio.options.contentType = Headers.formUrlEncodedContentType;
 //
 //      var response;
