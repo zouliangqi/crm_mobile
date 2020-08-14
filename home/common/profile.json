@@ -1,0 +1,27 @@
+
+
+{
+  "user": {
+    "deptName": "deptName",
+    "imgPath": "img",
+    "createTime": "createTime",
+    "lastLoginTime": "lastLoginTime",
+    "lastPwdUpdateTime": "lastPwdUpdateTime",
+    "num": "num",
+    "sex": "sex",
+    "mobile": "mobile",
+    "realname": "realname",
+    "parentName": "parentName",
+    "position": "post",
+    "userId": "userId",
+    "parentId": "parentId",
+    "lastLoginIp": "lastLoginIp",
+    "deptId": "deptId",
+    "email": "email",
+    "username": "username",
+    "status": "status"
+  },
+  "token":"",
+  "lastLogin":"",
+  "locale":""
+}
